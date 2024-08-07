@@ -35,4 +35,7 @@ public class AppTest
     {
         assertTrue( true );
     }
+    public void newBranch(){
+        System.out.println("new branch");
+    }
 }
